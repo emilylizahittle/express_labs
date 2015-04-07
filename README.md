@@ -89,4 +89,10 @@ Include some navigation links on each page to help the user navigate the site.
 ### Note
 Please [let me know](mailto:brett.levenson@ga.co) if there are any issues with the set up instructions or you have questions about the lab. I'll be on Slack for a while.
 
-> Last updated by Brett Levenson on April 6, 2015.
+# Express Labs
+
+Labs by Date:
+
+| Date | Name |
+| ---: | ----- |
+| 4/6/15 | [Daily Planet (baalshem-adrenotropic-app)](baalshem-adrenotropic-app/README.md) |
