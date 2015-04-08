@@ -77,6 +77,8 @@ You'll need the following `site` related routes:
 
 #### Views
 
+Note that I have already created the views for you including the forms and layouts.
+
 All your article related views are in an `views/articles` folder. Each article should utilize `ejs` to render the page. Your author views are in the `views/authors` folder. Your `site` related views `index`, `about`, and `contact` are in the folder `views/site`. 
 
 You'll want to review the EJS files that go with each route to figure out what query you want to build with `sequelize` and what variables to pass through using `res.render()`.
