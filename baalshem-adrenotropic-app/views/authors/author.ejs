@@ -6,7 +6,7 @@
 <div>
 	<h2>Articles by Author:</h2>
   <ul>
-  	<% ejsAuthor.Articles.forEach(function(article) {  %>
+  	<% authorArticles.forEach(function(article) {  %>
   	<li><a href="/articles/<%= article.id  %>"><%= article.title  %></a></li>
   	<% });  %>
   </ul>
